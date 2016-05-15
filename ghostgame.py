@@ -18,4 +18,4 @@ while feeling_brave:
         print('You enter the next room.')
         score = score + 1
 print('Run away!')
-print ('Game over! You scored', score)
+print('Game over! You scored', score)
